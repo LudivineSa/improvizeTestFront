@@ -1,0 +1,15 @@
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active{
+    -webkit-background-clip: text;
+}
+
+.smallPlant {
+    width: 3rem;
+}
+
+.bigPlant {
+    width: 6rem;
+    margin: -1rem;
+}
