@@ -11,9 +11,13 @@ export const theme = createTheme({
   palette: {
     primary: {
       main: primaryColorMain,
+      light: accentColor
     },
     secondary: {
       main: secondaryColorMain
+    },
+    text: {
+      primary: primaryTextColor
     }
   },
   typography: {
