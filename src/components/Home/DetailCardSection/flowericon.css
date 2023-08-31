@@ -1,0 +1,11 @@
+.flowericon {
+    width: 40rem;
+    margin-bottom: -2rem;
+}
+
+@media screen and (max-width: 1400px) {
+    .flowericon {
+        width: 25rem;
+    }
+}
+    

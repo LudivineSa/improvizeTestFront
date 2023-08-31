@@ -17,7 +17,7 @@ export const CardSection = () => {
             <FilterSection />
             <Grid container spacing={10} sx={{marginTop:"1rem"}} justifyContent="center" alignItems="stretch">
                 {cards.map((card: Card, index: number) =>  ( 
-                <Grid item xs={4} display="flex" justifyContent="center" key={card.idcard}>
+                <Grid item xs={12} lg={4} display="flex" justifyContent="center" key={card.idcard}>
                     <Card index={index} key={card.idcard} card={card} />
                 </Grid>
             ))}

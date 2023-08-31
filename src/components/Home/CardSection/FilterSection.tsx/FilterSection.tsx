@@ -33,7 +33,7 @@ export const FilterSection = () => {
     }
 
     return (
-        <Box display="flex" justifyContent="center" gap="2rem" mt="4rem" alignItems="center" position="relative">
+        <Box display="flex" sx={{flexDirection: {xs: 'column', lg: 'row'}, justifyContent: {xs: 'left', lg: 'center'}, alignItems: {xs: 'left', lg: 'center'}}} gap="2rem" mt="4rem" position="relative">
             <Box sx={{
                 position: "relative",
                 '&:hover svg': { 
