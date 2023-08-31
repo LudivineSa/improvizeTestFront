@@ -18,13 +18,18 @@ export const theme = createTheme({
   },
   typography: {
     fontFamily: 'Raleway Variable',
-    body1: {
+     body1: {
       color: primaryTextColor
     },
-    h1: {
+    body2: {
       color: secondaryColorMain,
-      fontWeight: 700,
-      fontSize: '2rem'
+      fontSize: '2rem',
+      fontFamily: 'Cedarville Cursive'
+    },
+    h1: {
+      color: primaryColorMain,
+      fontWeight: 900,
+      fontSize: '4.5rem'
     }
   },
   components: {

@@ -1,0 +1,393 @@
+[
+  {
+    "idcard" : 1,
+    "title": "Le supermarché des merveilles",
+    "sub_title" : "Cours de danse pour zombies",
+    "description" : "Cette robe est fabriquée à partir d'un tissu doux et soyeux, avec une coupe flatteuse qui mettra en valeur votre silhouette. Elle est parfaite pour une soirée élégante ou une occasion spéciale.",
+    "date": "2022-01-05",
+    "adresse": "666 Avenue de l'Apocalypse, 66666 Enfer",
+    "telephone": "+33 6 66 66 66 66",
+    "site_web": "https://www.supermarche-des-merveilles.com/",
+    "coordonnees": {
+      "latitude": 48.843708,
+      "longitude": 2.389383
+    },
+    "heure_ouverture": {
+      "lundi": "10:00",
+      "mardi": "10:00",
+      "mercredi": "10:00",
+      "jeudi": "10:00",
+      "vendredi": "10:00",
+      "samedi": "10:00",
+      "dimanche": "10:00"
+    },
+    "heure_fermeture": {
+      "lundi": "22:00",
+      "mardi": "22:00",
+      "mercredi": "22:00",
+      "jeudi": "22:00",
+      "vendredi": "22:00",
+      "samedi": "22:00",
+      "dimanche": "22:00"
+    },
+    "services": [
+      "Tours en chariot tiré par des licornes",
+      "Biscuits de l'espace",
+      "Déguisements pour chats",
+      "Location de sabres lasers",
+      "Pharmacie pour créatures magiques",
+      "Châteaux gonflables pour les adultes",
+      "Distributeur automatique de potions magiques",
+      "Espace de rencontre avec des extraterrestres",
+      "Cours de danse pour zombies"
+    ],
+    "promotions": [
+      {
+      "nom": "La semaine des licornes",
+      "description": "Réductions sur tous les produits licornesques !"
+      },
+      {
+      "nom": "Soldes de printemps",
+      "description": "Réductions sur tous les costumes de super-héros !"
+      }
+    ],
+    "commentaires": [
+      {
+      "auteur": "Morgane",
+      "contenu": "Le supermarché des merveilles est un lieu incroyable, je suis émerveillée à chaque visite !"
+      },
+      {
+      "auteur": "Arthur",
+      "contenu": "J'adore ce supermarché, il a tout ce dont j'ai besoin pour vivre mes aventures fantastiques !"
+      }
+    ],
+    "notes": {
+      "qualite": 5.0,
+      "service": 4.8,
+      "prix": 3.5
+    }
+  },
+  {
+  "idcard" : 2,
+  "title": "La librairie enchantée",
+  "sub_title" : "Café littéraire et ateliers créatifs",
+  "description" : "Cette montre est un mélange parfait de style et de fonctionnalité. Son design moderne et élégant est complété par des caractéristiques haut de gamme telles qu'un chronomètre, une fonction de réveil et un bracelet en cuir véritable.",
+  "date": "2022-03-15",
+  "adresse": "123 Rue de la Magie, 75000 Paris",
+  "telephone": "+33 1 23 45 67 89",
+  "site_web": "https://www.librairie-enchantee.com/",
+  "coordonnees": {
+  "latitude": 48.856614,
+  "longitude": 2.3522219
+  },
+  "heure_ouverture": {
+  "lundi": "09:00",
+  "mardi": "09:00",
+  "mercredi": "09:00",
+  "jeudi": "09:00",
+  "vendredi": "09:00",
+  "samedi": "09:00",
+  "dimanche": "fermé"
+  },
+  "heure_fermeture": {
+  "lundi": "19:00",
+  "mardi": "19:00",
+  "mercredi": "19:00",
+  "jeudi": "19:00",
+  "vendredi": "19:00",
+  "samedi": "19:00",
+  "dimanche": "fermé"
+  },
+  "services": [
+  "Café littéraire",
+  "Ateliers créatifs",
+  "Rencontres avec des auteurs",
+  "Vente de livres neufs et d'occasion",
+  "Coin lecture confortable"
+  ],
+  "promotions": [
+  {
+  "nom": "Happy Hour",
+  "description": "Réductions sur les boissons chaudes de 16h à 18h !"
+  },
+  {
+  "nom": "Soldes d'hiver",
+  "description": "Réductions sur les livres d'occasion !"
+  }
+  ],
+  "commentaires": [
+  {
+  "auteur": "Sophie",
+  "contenu": "J'ai passé un excellent moment à La librairie enchantée, l'ambiance est chaleureuse et les ateliers sont super créatifs !"
+  },
+  {
+  "auteur": "Lucas",
+  "contenu": "J'adore l'idée du café littéraire, ça change des salons de thé classiques !"
+  }
+  ],
+  "notes": {
+  "qualite": 4.5,
+  "service": 4.7,
+  "prix": 3.8
+  }
+  },
+  {
+    "idcard" : 3,
+    "title": "Le café des chats",
+    "sub_title" : "Boire du café en compagnie de chats",
+    "description" : "Ce livre est un incontournable pour tous les amateurs de science-fiction. L'histoire captivante suit un groupe de voyageurs interstellaires alors qu'ils naviguent à travers les dangers de l'espace. Les descriptions détaillées des mondes étranges et des créatures extraterrestres sont fascinantes.",
+    "date": "2023-06-01",
+    "adresse": "25 Rue du Chat Noir, 75018 Paris",
+    "telephone": "+33 1 42 57 66 53",
+    "site_web": "https://www.lecafedeschats.fr/",
+    "coordonnees": {
+    "latitude": 48.8854,
+    "longitude": 2.3461
+    },
+    "heure_ouverture": {
+    "lundi": "11:00",
+    "mardi": "11:00",
+    "mercredi": "11:00",
+    "jeudi": "11:00",
+    "vendredi": "11:00",
+    "samedi": "11:00",
+    "dimanche": "11:00"
+    },
+    "heure_fermeture": {
+    "lundi": "20:00",
+    "mardi": "20:00",
+    "mercredi": "20:00",
+    "jeudi": "20:00",
+    "vendredi": "20:00",
+    "samedi": "20:00",
+    "dimanche": "20:00"
+    },
+    "services": [
+    "Boire du café en compagnie de chats",
+    "Adopter un chat",
+    "Participer à des ateliers de méditation avec des chats",
+    "Acheter des produits dérivés de chats",
+    "Organiser des événements privés avec des chats"
+    ],
+    "promotions": [
+    {
+    "nom": "Semaine de la Saint-Valentin",
+    "description": "Réductions sur tous les produits en forme de cœur !"
+    },
+    {
+    "nom": "Anniversaire du café",
+    "description": "Célébrez notre anniversaire avec nous et obtenez une réduction de 20 % sur tous les produits !"
+    }
+    ],
+    "commentaires": [
+    {
+    "auteur": "Sophie",
+    "contenu": "J'ai passé un moment incroyable au café des chats, les chats sont si mignons et câlins !"
+    },
+    {
+    "auteur": "Alexandre",
+    "contenu": "Le café des chats est un endroit magique, où l'on peut se détendre en compagnie de nos amis félins."
+    }
+    ],
+    "notes": {
+    "qualite": 4.5,
+    "service": 4.8,
+    "prix": 3.5
+    }
+  },
+  {
+    "idcard": 4,
+    "title": "Le café du coin",
+    "sub_title": "Le meilleur café de la ville",
+    "description" : "Cette guitare électrique est un must pour tous les musiciens sérieux. Elle offre un son riche et puissant grâce à ses micros à double bobinage, et sa finition brillante et métallique attirera l'attention de la foule.",
+    "date": "2023-05-11",
+    "adresse": "123 rue de la Paix, 75001 Paris",
+    "telephone": "+33 1 23 45 67 89",
+    "site_web": "https://www.lecafeducoin.com/",
+    "coordonnees": {
+    "latitude": 48.862725,
+    "longitude": 2.342013
+    },
+    "heure_ouverture": {
+    "lundi": "07:00",
+    "mardi": "07:00",
+    "mercredi": "07:00",
+    "jeudi": "07:00",
+    "vendredi": "07:00",
+    "samedi": "08:00",
+    "dimanche": "08:00"
+    },
+    "heure_fermeture": {
+    "lundi": "20:00",
+    "mardi": "20:00",
+    "mercredi": "20:00",
+    "jeudi": "20:00",
+    "vendredi": "20:00",
+    "samedi": "18:00",
+    "dimanche": "18:00"
+    },
+    "services": [
+    "Café fraîchement moulu",
+    "Thé en feuilles",
+    "Viennoiseries fraîches",
+    "Sandwichs et salades",
+    "Wifi gratuit",
+    "Livraison à domicile"
+    ],
+    "promotions": [
+    {
+    "nom": "Happy Hour",
+    "description": "Réductions sur les boissons chaudes de 16h à 18h !"
+    },
+    {
+    "nom": "Formule petit-déjeuner",
+    "description": "Un café et une viennoiserie pour 3 euros seulement !"
+    }
+    ],
+    "commentaires": [
+    {
+    "auteur": "Sophie",
+    "contenu": "Le café du coin est mon endroit préféré pour prendre un café le matin, l'ambiance est super conviviale !"
+    },
+    {
+    "auteur": "Marc",
+    "contenu": "J'ai commandé une livraison chez eux hier soir, le sandwich était délicieux et la livraison rapide !"
+    }
+    ],
+    "notes": {
+    "qualite": 4.5,
+    "service": 4.3,
+    "prix": 3.8
+    }
+  },
+  {
+    "idcard": 5,
+    "title": "La forêt enchantée",
+    "sub_title": "Promenade en licorne",
+    "sub_titledescription" : "Ce jeu de société est amusant pour toute la famille. Les règles sont simples à comprendre et les parties sont rapides, mais il y a suffisamment de stratégie pour garder les joueurs engagés pendant des heures. Les graphismes sont colorés et amusants, et chaque partie est différente de la précédente.",
+    "date": "2022-02-14",
+    "adresse": "123 Rue des fées, 99999 Royaume des merveilles",
+    "telephone": "+33 1 23 45 67 89",
+    "site_web": "https://www.foret-enchantee.com/",
+    "coordonnees": {
+    "latitude": 48.234567,
+    "longitude": 2.345678
+    },
+    "heure_ouverture": {
+    "lundi": "09:00",
+    "mardi": "09:00",
+    "mercredi": "09:00",
+    "jeudi": "09:00",
+    "vendredi": "09:00",
+    "samedi": "09:00",
+    "dimanche": "09:00"
+    },
+    "heure_fermeture": {
+    "lundi": "18:00",
+    "mardi": "18:00",
+    "mercredi": "18:00",
+    "jeudi": "18:00",
+    "vendredi": "18:00",
+    "samedi": "18:00",
+    "dimanche": "18:00"
+    },
+    "services": [
+    "Promenade en licorne",
+    "Pique-nique dans la forêt",
+    "Ateliers d'herboristerie",
+    "Chasse aux trésors",
+    "Contes et légendes"
+    ],
+    "promotions": [
+    {
+    "nom": "Saint-Valentin enchantée",
+    "description": "Offrez une promenade en licorne pour la Saint-Valentin !"
+    },
+    {
+    "nom": "Pâques magiques",
+    "description": "Participez à notre chasse aux œufs dans la forêt enchantée !"
+    }
+    ],
+    "commentaires": [
+    {
+    "auteur": "Sophie",
+    "contenu": "J'ai adoré la promenade en licorne, c'était magique !"
+    },
+    {
+    "auteur": "Antoine",
+    "contenu": "Les ateliers d'herboristerie étaient très instructifs, j'ai appris beaucoup de choses sur les plantes magiques."
+    }
+    ],
+    "notes": {
+    "qualite": 4.5,
+    "service": 4.0,
+    "prix": 3.8
+    }
+  },
+  {
+    "idcard" : 6,
+    "title": "Le zoo fantastique",
+    "sub_title" : "Visite guidée en licorne",
+    "description" : "Cette plante d'intérieur est facile à entretenir et ajoute une touche de verdure à n'importe quelle pièce. Ses feuilles brillantes et vertes sont un excellent contraste avec les intérieurs modernes et minimalistes, et sa petite taille en fait un choix parfait pour les appartements ou les petits espaces.",
+    "date": "2022-05-01",
+    "adresse": "123 Rue des Licornes, 75001 Paris",
+    "telephone": "+33 1 23 45 67 89",
+    "site_web": "https://www.zoo-fantastique.com/",
+    "coordonnees": {
+    "latitude": 48.856614,
+    "longitude": 2.3522219
+    },
+    "heure_ouverture": {
+    "lundi": "09:00",
+    "mardi": "09:00",
+    "mercredi": "09:00",
+    "jeudi": "09:00",
+    "vendredi": "09:00",
+    "samedi": "09:00",
+    "dimanche": "09:00"
+    },
+    "heure_fermeture": {
+    "lundi": "17:00",
+    "mardi": "17:00",
+    "mercredi": "17:00",
+    "jeudi": "17:00",
+    "vendredi": "17:00",
+    "samedi": "17:00",
+    "dimanche": "17:00"
+    },
+    "services": [
+    "Visite guidée en licorne",
+    "Nourriture pour dragons",
+    "Jeux de rôle grandeur nature",
+    "Location de déguisements",
+    "Ateliers de magie",
+    "Rencontre avec des animaux fantastiques",
+    "Espace de détente pour les parents"
+    ],
+    "promotions": [
+    {
+    "nom": "La journée des dragons",
+    "description": "Réductions sur tous les produits liés aux dragons !"
+    },
+    {
+    "nom": "Soldes d'été",
+    "description": "Réductions sur tous les costumes de princesses et de chevaliers !"
+    }
+    ],
+    "commentaires": [
+    {
+    "auteur": "Sophie",
+    "contenu": "Le zoo fantastique est un endroit magique où les enfants peuvent s'évader et vivre des aventures extraordinaires !"
+    },
+    {
+    "auteur": "Lucas",
+    "contenu": "J'ai adoré la visite guidée en licorne, c'était génial !"
+    }
+    ],
+    "notes": {
+    "qualite": 4.5,
+    "service": 4.7,
+    "prix": 4.0
+    }
+  }    
+]

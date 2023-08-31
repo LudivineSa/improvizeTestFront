@@ -3,9 +3,9 @@ import { useForm } from "react-hook-form";
 import * as yup from "yup";
 import { yupResolver } from '@hookform/resolvers/yup';
 
-import twoFlowers from '../../assets/two-flowers.svg'
-import pinkFlower from '../../assets/pink-flower-in-pot.svg'
-import yellowPlant from '../../assets/yellow-plant.svg'
+import twoFlowers from '../../assets/images/two-flowers.svg'
+import pinkFlower from '../../assets/images/pink-flower-in-pot.svg'
+import yellowPlant from '../../assets/images/yellow-plant.svg'
 
 import './formlogin.css'
 

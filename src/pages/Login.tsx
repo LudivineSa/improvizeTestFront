@@ -1,7 +1,6 @@
 import { Box, Typography } from '@mui/material';
 
-import info from '../assets/infos.svg';
-import  logo  from '../assets/sl-logo.svg';
+import  logo  from '../assets/images/sl-logo.svg';
 import { FormLogin } from '../components/FormLogin/FormLogin';
 import { Info } from '../components/Info/Info';
 
