@@ -74,29 +74,30 @@ export const theme = createTheme({
       }
     },
     MuiTextField: {
+      defaultProps: {
+        color: 'primary',
+        inputProps: {
+          style: {
+            color: "#3C70D8",
+          }
+      },
+    },
       styleOverrides: {
         root: {
           '& .MuiOutlinedInput-root': {
             '& fieldset': {
-              border: `2px solid ${primaryColorMain} !important`,
-              borderRadius: '100px !important',
+              border: `2px solid ${primaryColorMain}`,
+              borderRadius: '100px ',
             },
             '&:hover fieldset': {
-              borderColor: `${accentColor} !important`,
+              borderColor: `${accentColor}`,
             },
             '&.Mui-focused fieldset': {
-              borderColor: `${primaryColorMain} !important`,
+              borderColor: `${primaryColorMain}`,
             }
           },
           '& .MuiOutlinedInput-input': {
-            padding: '1rem !important',
-            color: `${primaryTextColor} !important`,
-            '&:hover': {
-              color: `${accentColor} !important`,
-            },
-            '&:focus': {
-              color: `${primaryColorMain} !important`,
-            }
+            padding: '1rem',
           },
         }
       }

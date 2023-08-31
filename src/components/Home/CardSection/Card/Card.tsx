@@ -16,6 +16,10 @@ export const Card = (props: CardProps) => {
     const { setCard } = useContext(CardsContext);
 
     const changeCardDetail = () => {
+        const detailCardElement = document.getElementById("detailCard");
+        if (detailCardElement) {
+            detailCardElement.scrollIntoView({ behavior: "smooth" });
+        }
         setCard(card);
     }
     

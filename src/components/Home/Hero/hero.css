@@ -1,0 +1,112 @@
+.pinkPlantBig {
+    position: absolute;
+    top: 1%;
+    left: 30rem;
+    transform: translateX(-50%);
+    z-index: 20;
+}
+
+.triangles {
+    position: absolute;
+    top: 15%;
+    left: 20rem;
+    transform: translateX(-50%);
+    z-index: 15;
+}
+
+.boat {
+    position: absolute;
+    top: 45%;
+    left: 12rem;
+    transform: translateX(-50%) scale(1.5);
+    z-index: 10;
+}
+
+.pinkFlowerInPot {
+    position: absolute;
+    top: 35%;
+    left: 25rem;
+    transform: translateX(-50%) rotate(-15deg);
+    z-index: 5;
+}
+
+.zigzag {
+    position: absolute;
+    top: 70%;
+    left: 30rem;
+    transform: translateX(-50%) scale(3);
+    z-index: 0;
+}
+
+.cow {
+    position: absolute;
+    top: 55%;
+    left: 10rem;
+    transform: translateX(-50%);
+    z-index: 0;
+}
+
+.twoFlowers {
+    position: absolute;
+    top: 15%;
+    left: 3rem;
+    z-index: 1;
+}
+
+.btnDown {
+    width: 8rem;
+    height: 8rem;
+    background-image: url('../../../assets/images/btn-down.svg');
+    background-size: cover;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+}
+
+.btnDown:hover {
+    width: 9rem;
+    height: 9rem;
+    background-image: url('../../../assets/images/btn-down-hover.svg');
+}
+
+@media screen and (max-width: 1200px) {
+    .twoFlowers {
+        top: 5%;
+        width: 4rem;
+    }
+
+    .cow {
+        top: 20%;
+        width: 3rem;
+        left: 5rem;
+    }
+
+    .boat {
+        top: 17%;
+        width: 2rem;
+        left: 7rem;
+    }
+
+    .triangles {
+        top: 5%;
+        width: 2rem;
+        left: 10rem;
+    }
+
+    .pinkPlantBig {
+        top: 0%;
+        width: 2rem;
+        left: 15rem;
+    }
+
+    .pinkFlowerInPot {
+        top: 10%;
+        width: 4rem;
+        left: 12rem;
+    }
+
+    .zigzag {
+        top: 22%;
+        width: 2rem;
+        left: 12rem;
+    }
+}

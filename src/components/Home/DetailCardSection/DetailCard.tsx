@@ -11,7 +11,7 @@ export const DetailCard = () => {
     const { card } = useContext(CardsContext)
 
     return (
-        <Box sx={{backgroundColor:"#fff", border: '3px solid #F2C91E', padding: "2.5rem 5.5rem", mx:{xs: 'auto', lg: '2rem'}, width:{ xs: '90%', lg:'60%'}, borderRadius: "40px", mt: "3.7rem", maxWidth: '50rem'}}>
+        <Box  sx={{backgroundColor:"#fff", border: '3px solid #F2C91E', padding: "2.5rem 5.5rem", mx:{xs: 'auto', lg: '2rem'}, width:{ xs: '90%', lg:'60%'}, borderRadius: "40px", mt: "3.7rem", maxWidth: '50rem'}}>
             <Box display="flex" sx={{flexDirection:{xs: 'column', lg:'row'}}} gap="2.5rem" alignItems="center">
                 <Box>
                     <Box display="flex" justifyContent="space-between" alignItems="baseline" gap="1rem">

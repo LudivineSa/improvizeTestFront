@@ -33,7 +33,7 @@ export const FilterSection = () => {
     }
 
     return (
-        <Box display="flex" sx={{flexDirection: {xs: 'column', lg: 'row'}, justifyContent: {xs: 'left', lg: 'center'}, alignItems: {xs: 'left', lg: 'center'}}} gap="2rem" mt="4rem" position="relative">
+        <Box id="filter" display="flex" sx={{flexDirection: {xs: 'column', lg: 'row'}, justifyContent: {xs: 'left', lg: 'center'}, alignItems: {xs: 'left', lg: 'center'}}} gap="2rem" mt="4rem" position="relative">
             <Box sx={{
                 position: "relative",
                 '&:hover svg': { 
@@ -55,7 +55,7 @@ export const FilterSection = () => {
                 }}
             />
         </Box>
-            <Button onClick={sortByDate} sx={{fontWeight:"400", border:buttonStyle.border, color:buttonStyle.color, backgroundColor: buttonStyle.backgroundColor}}>Trier par date de création</Button>
+            <Button onClick={sortByDate} sx={{fontWeight:"400", border:buttonStyle.border, color:buttonStyle.color, backgroundColor: buttonStyle.backgroundColor, width: 'fit-content'}}>Trier par date de création</Button>
             <FormControl variant="outlined" sx={{ width: 200 }}>
             <Select
                 value={0}
